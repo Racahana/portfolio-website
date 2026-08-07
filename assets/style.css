@@ -328,8 +328,8 @@ width: 8px;
 }
 
 .hero-heading {
-    font-size: clamp(2.8rem, 5vw, 5rem);
-    font-weight: 900;
+    font-weight: 600;
+    font-size: 65px;
     line-height: 1.05;
     letter-spacing: -2px;
     margin-bottom: 24px;
