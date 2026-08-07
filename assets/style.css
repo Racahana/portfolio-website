@@ -57,7 +57,11 @@ body {
     transition: width 0.2s, height 0.2s, background 0.2s;
     mix-blend-mode: difference;
 }
-
+a {
+    color: #eb22db;
+    text-decoration: none;
+    font-weight: 700;
+}
 .cursor-follower {
     position: fixed;
     width: 36px;
